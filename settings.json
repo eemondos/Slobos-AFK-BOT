@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Graemeplays.aternos.me",
+    "port": 38148,
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
